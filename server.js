@@ -26,5 +26,5 @@ app.get("/", (req, res) => {
 
 // ~ // --------------- SERVER LISTENER --------------- // ~ //
 const PORT = process.env.PORT;
-app.listen(PORT, () => console.log(`Swimming @ PORT ${PORT}`));
+app.listen(PORT, () => console.log(`Swimming @ seaPORT ${PORT}`));
 
